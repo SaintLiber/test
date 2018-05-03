@@ -13,6 +13,5 @@
 # limitations under the License.
 
 # This file creates a standard build environment for building Kubernetes
-FROM registry.cn-hangzhou.aliyuncs.com/google_containers/kube-cross:v1.10.1-1
-
+FROM calico/node:v3.1.1
 ADD README.md /
