@@ -13,5 +13,5 @@
 # limitations under the License.
 
 # This file creates a standard build environment for building Kubernetes
-FROM calico/node:v3.1.1
+FROM calico/cni:v3.1.1
 ADD README.md /
