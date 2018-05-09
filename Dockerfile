@@ -13,5 +13,5 @@
 # limitations under the License.
 
 # This file creates a standard build environment for building Kubernetes
-FROM calico/cni:v3.1.1
+FROM influxdb/1.5.2
 ADD README.md /
