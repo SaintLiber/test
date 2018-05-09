@@ -13,5 +13,5 @@
 # limitations under the License.
 
 # This file creates a standard build environment for building Kubernetes
-FROM docker.io/influxdb/1.4.3
+FROM influxdb:1.5.2
 ADD README.md /
