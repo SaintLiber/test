@@ -1,2 +1,0 @@
-# kube-cross
-kube-cross
