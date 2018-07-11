@@ -13,4 +13,4 @@
 # limitations under the License.
 
 # This file creates a standard build environment for building Kubernetes
-FROM docker.io/portainer/portainer:latest
+FROM quay.io/coreos/etcd:v3.3
